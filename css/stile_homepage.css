@@ -1,0 +1,62 @@
+header{
+	display:inline;
+	background-color:tomato;
+}
+main{
+	background-color:antiquewhite;
+}
+h1{
+	font-family:"Lucida Handwriting", fantasy;
+}
+#testata{
+	background-color:antiquewhite;
+	color:antiquewhite;
+}
+#carosello{
+	border-top-style:double;
+	border-top-color:darkgoldenrod;
+	border-top-width:5px;
+	border-bottom-style:double;
+	border-bottom-color:darkgoldenrod;
+	border-bottom-width:5px;
+}
+#carosello a{
+	color:crimson;
+}
+#carosello a:hover{
+	color:royalblue;
+	text-shadow: 2px 2px 5px blue;
+}
+#carosello h5{
+	color:crimson;
+}
+#carosello p{
+	color:crimson;
+	text-shadow: 2px 2px 5px red;
+}
+#progetto{
+	background-color:goldenrod;
+	font-family:'Brush Script MT', cursive;
+	border-style:double;
+	border-color:darkgoldenrod;
+	border-width:3px;
+}
+h3{
+	font-family:'Brush Script MT', cursive;
+	font-size:35px;
+}
+#testo_progetto{
+	font-size:25px;
+}
+#presentazione a{
+	color:crimson;
+}
+#presentazione a:hover{
+	color:royalblue;
+}
+#back_to_top{
+	text-align:center;
+}
+footer{
+	background-color:lightcyan;
+}
