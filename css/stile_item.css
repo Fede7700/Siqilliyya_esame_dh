@@ -8,6 +8,35 @@ h3{
 	font-family:'Brush Script MT', cursive;
 	font-size:35px;
 }
+#prima{
+	text-align:left;
+}
+#titolo_opera{
+	text-align:center;
+}
+h2{
+	font-family:"Lucida Handwriting", fantasy;
+}
+span{
+	text-decoration: underline;
+}
+#dopo{
+	text-align:right;
+}
+#presentazione_1{
+	background-color:aqua;
+	border-style:double;
+	border-color:mediumblue;
+	border-width:3px;
+}
+#presentazione h4{
+	font-family:'Brush Script MT', cursive;
+	font-size: 30px;
+}
+blockquote{
+	text-align:justify;
+	font-size:17px;
+}
 footer{
 	background-color:lightcyan;
 }
