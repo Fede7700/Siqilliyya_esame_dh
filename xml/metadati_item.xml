@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sembrano perfezioni: edizione digitale</title>
+				<author xml:id="IH">Ibn Hamdis</author>
+				<editor role="translator" xml:id="FMC">Francesca Maria Corrao</editor>
+				<editor role="translator" xml:id="ES">Edoardo Sanguineti</editor>
+				<sponsor>Università degli studi di Macerata</sponsor>
+				<principal xml:id="OP">Odetta Pizzingrilli</principal>
+			</titleStmt>
+			<editionStmt>
+				<edition n="2.0">
+					<title>La seconda versione tradotta da Corrao e resa pubblica da Pizzingrilli</title>
+					<data when="2019">2019</data>
+				</edition>
+				<respStmt>
+					<name xml:id="FMC">Francesca Maria Corrao</name>
+					<resp>Traduttrice</resp>
+				</respStmt>
+				<respStmt>
+					<name xml:id="ES">Edoardo Sanguineti</name>
+					<resp>Traduttore</resp>
+				</respStmt>
+			</editionStmt>
+			<extent>98 parole</extent>
+			<publicationStmt>
+				<publisher>Mesogea</publisher>
+				<pubPlace>Messina</pubPlace>
+				<address>
+					<name type="institution">Mesogea</name>
+					<street>Via Catania 62</street>
+					<postCode>98124</postCode>
+					<name type="city">Messina</name>
+					<name type="country">Italia</name>
+				</address>
+				<idno type="ISBN">88-469-2023-6</idno>
+				<availability>
+					<license>Published under Mesogea by GEM s.r.l.</license>
+					<date when="2002">2002</date>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<title>Poeti arabi di Sicilia</title>
+						<author xml:id="FMC">Francesca Maria Corrao</author>
+						<editor role="translator" xml:id="FMC">Francesca Maria Corrao</editor>
+						<editor role="grafics" xml:id="GA">Gianfranco Anastasio</editor>
+						<imprint>
+							<pubPlace>Messina</pubPlace>
+							<publisher>Mesogea</publisher>
+							<date when="2005">maggio 2005</date>
+						</imprint>
+						<extent>216 pagg.</extent>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>L'estratto di Poeti arabi di Sicilia è stato reso pubblico dalla prof.ssa Pizzingrilli nell'ambito del corso di Letteratura e cultura araba II tenutosi nell'a.a. 2019-2020 nell'Università degli studi di Macerata.</p>
+			</projectDesc>
+			<classDecl>
+				<taxonomy>
+					<bibl>
+						<title>892.7134CDD-20</title>
+						<title>CIP - Biblioteca centrale della Regione siciliana "Alberto Bombace"</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+			<metDecl>
+				<metSym value="|">foot boundary</metSym>
+				<metSym value="/">metrical line boundary</metSym>
+			</metDecl>
+			<tagsDecl>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi="br" occurs="8" rendition="#lines_division">Segnala la fine di un verso all'interno della stessa strofa.</tagUsage>
+					<tagUsage gi="doppio_br" occurs="8" rendition="#stanzas_division">Segnala la fine di una strofa.</tagUsage>
+				</namespace>
+			</tagsDecl>
+		</encodingDesc>
+		<profileDesc>
+			<creation>Original text written in<date when="xi-xiisec">XI-XII sec.</date> as a part of the <title>Diwan</title> by <name type="persname">Ibn Hamdis</name></creation>
+			<langUsage>
+				<p>Per il testo originale</p>
+				<language ident="ar">Arabo</language>
+				<p>Per il testo tradotto utilizzato</p>
+				<language ident="it">Italiano</language>
+			</langUsage>
+			<textClass>
+				<keywords>
+					<list>
+						<item>Poesia araba</item>
+						<item>Sicilia</item>
+						<item>Sec. 11-12</item>
+					</list>
+				</keywords>
+			</textClass>
+		</profileDesc>
+		<revisionDesc>
+			<change when="maggio 2005" who="#FMC">Reavisione della traduzione in vista della seconda edizione.</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<lg xmlns="http://www.tei-c.org/ns/1.0">
+			<head>Sembrano perfezioni</head>
+			<lg type="couplet" n="1">
+				<l enjamb="no">Sembrano perfezioni, ma risplendono</l>
+				<l enjamb="yes">soltanto agli occhi tuoi: valgono niente;</l>
+			</lg>
+			<lg type="couplet" n="2">
+				<l enjamb="no">quanti nemici stanno in un amico,</l>
+				<l enjamb="no">e in quanta quiete si nasconde il ladro!</l>
+			</lg>
+			<lg type="couplet" n="3">
+				<l enjamb="no">Quanti cavalli di armoniose forme</l>
+				<l enjamb="yes">non arrivano, deboli, alla meta!</l>
+			</lg>
+			<lg type="couplet" n="4">
+				<l enjamb="no">Quanti cammelli, in viaggio, nella notte,</l>
+				<l enjamb="yes">li trattiene il difficile cammino!</l>
+			</lg>
+			<lg type="couplet" n="5">
+				<l enjamb="no">Così l’affanno trascina l’amante</l>
+				<l enjamb="no">dove l’ascesi e l’angoscia si legano:</l>
+			</lg>
+			<lg type="couplet" n="6">
+				<l enjamb="no">sventura all’uomo afflitto da ignoranza,</l>
+				<l enjamb="no">che gli lodano il corpo e non l’ingegno!</l>
+			</lg>
+			<lg type="couplet" n="7">
+				<l enjamb="no">È quasi un’ala, a volare, il denaro:</l>
+				<l enjamb="no">ma già è stroncata, e non rimane un bene:</l>
+			</lg>
+			<lg type="couplet" n="8">
+				<l enjamb="no">quanti uomini degni in vile veste!</l>
+				<l enjamb="no">Si lucida una spada e non la gemma.</l>
+			</lg>
+			<signed xmlns="http://www.tei-c.org/ns/1.0">Trad. F. M. Corrao e E. Sanguineti.</signed>
+		</lg>
+	</text>
+</TEI>
