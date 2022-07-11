@@ -8,6 +8,10 @@ h3{
 	font-family:'Brush Script MT', cursive;
 	font-size:35px;
 }
+
+main{
+	background-color:paleturquoise;
+}
 #prima{
 	text-align:left;
 }
@@ -18,7 +22,18 @@ h2{
 	font-family:"Lucida Handwriting", fantasy;
 }
 span{
-	text-decoration: underline;
+	text-decoration:underline;
+}
+.enjambements:hover{
+	text-decoration:overline underline;
+	text-decoration-color:blue;
+	color:mediumblue;
+}
+.anafore:hover{
+	text-decoration:underline;
+	text-decoration-style:wavy;
+	text-decoration-color:blue;
+	color:mediumblue;
 }
 #dopo{
 	text-align:right;
@@ -39,6 +54,16 @@ span{
 blockquote{
 	text-align:justify;
 	font-size:17px;
+	border-left-style:double;
+	border-left-width:5px;
+	border-left-radius:12px;
+	border-left-color:royalblue;
+}
+#suggerimenti1{
+	background-color:lavenderblush;
+}
+#suggerimenti2{
+	background-color:lavenderblush;
 }
 footer{
 	background-color:lightcyan;
