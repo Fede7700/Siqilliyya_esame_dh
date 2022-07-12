@@ -59,6 +59,9 @@ blockquote{
 	border-left-radius:12px;
 	border-left-color:royalblue;
 }
+dt{
+	font-weight:normal;
+}
 #suggerimenti1{
 	background-color:lavenderblush;
 }
