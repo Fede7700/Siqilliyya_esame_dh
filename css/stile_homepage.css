@@ -30,8 +30,16 @@ h1{
 	color:crimson;
 }
 #carosello p{
-	color:crimson;
-	text-shadow: 2px 2px 5px red;
+	color:firebrick;
+}
+#monreale h5{
+	color:white;
+}
+#monreale p{
+	color:white;
+}
+#monreale a{
+	color:white;
 }
 #progetto{
 	background-color:goldenrod;
