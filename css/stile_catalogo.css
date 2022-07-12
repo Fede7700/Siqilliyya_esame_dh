@@ -26,6 +26,9 @@ main{
 span{
 	text-decoration: underline;
 }
+h6 a{
+	color:gray;
+}
 #back_to_top{
 	text-align:center;
 
