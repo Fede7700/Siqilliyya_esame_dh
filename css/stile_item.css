@@ -24,6 +24,18 @@ h2{
 span{
 	text-decoration:underline;
 }
+.persone{
+	color:darkmagenta;
+	text-decoration:underline;
+	text-decoration-style:wavy;
+	text-decoration-color:darkmagenta;
+}
+.date{
+	color:fuchsia;
+}
+.luoghi{
+	color:chartreuse;
+}
 .enjambements:hover{
 	text-decoration:overline underline;
 	text-decoration-color:blue;
@@ -67,6 +79,9 @@ dt{
 }
 #suggerimenti2{
 	background-color:lavenderblush;
+}
+h6 a{
+	color:gray;
 }
 footer{
 	background-color:lightcyan;

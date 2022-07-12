@@ -26,12 +26,20 @@ main{
 span{
 	text-decoration: underline;
 }
-h6 a{
-	color:gray;
+.persone{
+	color:darkmagenta;
+}
+.date{
+	color:fuchsia;
+}
+.luoghi{
+	color:chartreuse;
 }
 #back_to_top{
 	text-align:center;
-
+}
+h6 a{
+	color:gray;
 }
 footer{
 	background-color:lightcyan;
