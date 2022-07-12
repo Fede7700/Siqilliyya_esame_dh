@@ -28,6 +28,9 @@ span{
 }
 .persone{
 	color:darkmagenta;
+	text-decoration:underline;
+	text-decoration-style:wavy;
+	text-decoration-color:darkmagenta;
 }
 .date{
 	color:fuchsia;
