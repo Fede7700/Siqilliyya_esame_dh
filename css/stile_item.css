@@ -83,6 +83,9 @@ dt{
 h6 a{
 	color:gray;
 }
+#back_to_top{
+	text-align:center;
+}
 footer{
 	background-color:lightcyan;
 }
