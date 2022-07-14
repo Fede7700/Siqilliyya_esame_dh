@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="https://fede7700.github.io/Siqilliyya_esame_dh/item.html"
+xmlns:cd="#">
+  <rdf:Description rdf:about="https://fede7700.github.io/Siqilliyya_esame_dh/item.html">
+    <cd:title>Sembrano perfezioni</cd:title>
+    <cd:author>Ibn Hamdis</cd:author>
+    <cd:contributor>Francesca Maria Corrao</cd:contributor>
+  </rdf:Description>
+</rdf:RDF>

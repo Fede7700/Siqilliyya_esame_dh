@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collezione xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="collezione">
+	<item n="1" xml:id="collezione-0006">
+		<genere>Poesia</genere>
+		<titolo-item>Sembrano perfezioni</titolo-item>>
+		<immagine riferimento="../immagini/sembrano_perfezioni.jpg"/>
+		<metadati>
+			<dc:title>Sembrano perfezioni</dc:title>
+			<dc:creator>Ibn Hamdis</dc:creator>
+			<dc:contributor>Francesca Maria Corrao</dc:contributor>
+			<dc:contributor>Edoardo Sanguineti</dc:contributor>
+			<dc:date>XI-XII sec.</dc:date>
+			<dc:language tipo="originale">Arabo</dc:language>
+			<dc:language tipo="traduzione">Italiano</dc:language>
+			<dc:type>Poesia</dc:type>
+			<dc:format>Carta</dc:format>
+			<dc:subject>
+				<termine n="1">Poesia</termine>
+				<termine n="2">Poeti arabo-siculi</termine>
+				<termine n="3">Poesie di Ibn Hamdis</termine>
+				<termine n="4">Poesie filosofiche</termine>
+				<termine n="5">Poesia dell'XI-XII sec.</termine>
+			</dc:subject>
+			<dc:identifier tipo="digitale">https://docenti.unimc.it/odetta.pizzingrilli/teaching/2019/21141/files/poeti-arabi-di-sicilia/ibn-hamdis</dc:identifier>
+			<dc:identifier tipo="permalink">https://www.mesogea.it/prodotto/poeti-arabi-di-sicilia/2022/07/10/poeti_arabi_di_sicilia/</dc:identifier>
+			<dc:identifier>P1306 XI-XII P3</dc:identifier>
+			<dc:source>Poeti arabi di Sicilia</dc:source>
+		</metadati>
+	</item>
+</collezione>
