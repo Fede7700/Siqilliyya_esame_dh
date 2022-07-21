@@ -2,7 +2,7 @@
 <collezione xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="collezione">
 	<item n="1" xml:id="collezione-0006">
 		<genere>Poesia</genere>
-		<titolo-item>Sembrano perfezioni</titolo-item>>
+		<titolo-item>Sembrano perfezioni</titolo-item>
 		<immagine riferimento="../immagini/sembrano_perfezioni.jpg"/>
 		<metadati>
 			<dc:title>Sembrano perfezioni</dc:title>
